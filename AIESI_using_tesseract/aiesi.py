@@ -8,9 +8,6 @@ import opencv_wrapper as cvw
 from skimage.filters import threshold_local
 import json
 
-from google.colab import drive
-drive.mount('/content/gdrive')
-
 !pip install -U git+https://github.com/madmaze/pytesseract.git
 
 import pytesseract
