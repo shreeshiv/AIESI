@@ -1,3 +1,4 @@
+![](demo_image.jpeg)
 ## How to run
 
 1. Fork this repo
