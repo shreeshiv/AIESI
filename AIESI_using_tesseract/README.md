@@ -1,7 +1,5 @@
 ![](X51005621482.jpeg)
-<img src="X51005621482.jpeg"
-     alt="Key Invoice Parameter Extraction "
-     style="float: right; " />
+
 ## How to run
 
 1. Fork this repo
